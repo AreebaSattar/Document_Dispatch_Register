@@ -62,4 +62,4 @@ The user stories define user requirements and expectations for the DDR system. S
 ## Screenshots 📸
 Screenshots of the implemented DDR system and its features will be done in next iteration.
 
-In the meantime, you can check out the [Figma Prototype]([https://www.figma.com/file/0KEHUWqxxdb1s8ytMpLsYH/DDR?type=design&node-id=0-1&t=izJov7aycwp2wgbx-0]) to get a visual idea of how the system will look and function.
+In the meantime, you can check out the [Figma Prototype](https://www.figma.com/file/0KEHUWqxxdb1s8ytMpLsYH/DDR?type=design&node-id=0-1&t=izJov7aycwp2wgbx-0) to get a visual idea of how the system will look and function.
